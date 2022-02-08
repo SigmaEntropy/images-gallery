@@ -11,8 +11,6 @@ const App = () => {
     console.log(word);
   };
 
-  console.log(word);
-
   return (
     <div>
       <Header title="Images Gallery" />
